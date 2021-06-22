@@ -1,4 +1,4 @@
-//This is a COVID-19 vaccine distribution class
+//This is a COVID-19 vaccine distribution class that distributes vaccines to all of California equally and in a fair manner
 import java.util.Scanner;
 
 class Main {
