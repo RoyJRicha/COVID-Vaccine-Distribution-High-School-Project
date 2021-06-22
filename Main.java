@@ -1,3 +1,4 @@
+//This is a COVID-19 vaccine distribution class
 import java.util.Scanner;
 
 class Main {
