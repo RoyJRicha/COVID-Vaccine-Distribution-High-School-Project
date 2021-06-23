@@ -1,7 +1,5 @@
 //This is a COVID-19 vaccine distribution class that distributes vaccines to all of California equally and in a fair manner
-<<<<<<< HEAD
 //Merge Test
-=======
 //Merge Test Number Two
 import java.util.Scanner;
 
