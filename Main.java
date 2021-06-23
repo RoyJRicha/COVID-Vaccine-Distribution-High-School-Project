@@ -2,7 +2,6 @@
 <<<<<<< HEAD
 =======
 //Merge Test
->>>>>>> ExtraFeatures
 import java.util.Scanner;
 
 class Main {
