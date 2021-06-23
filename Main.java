@@ -3,7 +3,6 @@
 //Merge Test
 =======
 //Merge Test Number Two
->>>>>>> Delivery
 import java.util.Scanner;
 
 class Main {
