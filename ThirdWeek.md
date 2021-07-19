@@ -6,7 +6,7 @@ Decided to take a step back and learn/reinforce topics in Angular so I have a be
 Started with reading about the angular.json file in any Angular project and how it includes all the default directives and files that go into any angular project  
 Then read about how to read and store data locally but I need to learn more about that considering I didn't have time to this past week because of hours of work in Angular videos  
 Finally spent hours apon hours learning angular through a set of 59 videos, I have currently gone through 32 videos while spending almost 16 hours in 3 days  
-The topics I learned/reinforced in these videos include the following  
+The topics I learned/reinforced in these videos include the following:  
 Components  
 Interpolation  
 Property Binding  
